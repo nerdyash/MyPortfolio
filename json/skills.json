@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Operating Systems",
+    "value": "Windows, Linux"
+  },
+  {
+    "id": "2",
+    "name": "Programming Languages",
+    "value": "Java, Python"
+  },
+  {
+    "id": "3",
+    "name": "Database Systems",
+    "value": "MySql, Mongodb"
+  },
+  {
+    "id": "4",
+    "name": "Web Technologies / Scripting languages",
+    "value": "HTML5, CSS3, JavaScript, AngularJS, JQuery, NodeJS, BootStrap, Sass, ExpressJS"
+  },
+  {
+    "id": "5",
+    "name": "Other Tools / Software",
+    "value": "WordPress, Google Analytics, Chrome Dev Tool, Fire Bug, RStudio, NetBeans, Dreamweaver, Atom, MS Office, Eclips"
+  },
+  {
+    "id": "6",
+    "name": "Version Control",
+    "value": "Git"
+  },
+  {
+    "id": "7",
+    "name": "Soft skills",
+    "value": "Innovative, Leadership, Passion"
+  }
+]

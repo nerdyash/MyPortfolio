@@ -1,0 +1,23 @@
+[
+  {
+    "id":"1",
+    "name":"Our Home Base, Inc",
+    "location":"New Paltz, New York, US.",
+    "position":"Web Development and Design Intern",
+    "description": "<ul><li>Analyzing client website inorder improve performance and user interface.</li><li>Performing requirement analysis and designing client's application.</li><li>Developing client product using WordPress.</li></ul>"
+  },
+  {
+    "id":"2",
+    "name":"Archer Solutions",
+    "location": "Ahmedabad, Gujarat, India.",
+    "position": "Project Trainee",
+    "description":"<ul><li>Developed Location Positioning device using Android, Arduino, GPS, WAMP and Apache Tomcat.</li><li>Implemented spiral technique of Software Development Life Cycle.</li><li>Implemented ZigBee protocol to create Ad-Hoc network.</li><li>Developed Android application to fetch the location of Life Band device.</li><li>Composed documentation and professional presentation for given project.</li></ul>"
+  },
+  {
+    "id" : "3",
+    "name": "Indus University",
+    "location":"Ahmedabad, Gujarat, India.",
+    "position":"Volunteer, Personal Assistance IT Department",
+    "description":"<ul><li>•	Counseled the presenters with IT support.</li><li>•	Planned the schedule for the presentations and coordinated with other departments.</li></ul>"
+  }
+]
