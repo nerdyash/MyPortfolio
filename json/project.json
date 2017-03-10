@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "name":"<h3>Portfolio</h3>",
+    "description": "<ul><li>Developed this portfolio using AngularJs framework.</li><li>Used Angular modules like ngRoute and ngSanitize.</li><li>Utilized Angular $http service to fetch data from the JSON file.</li></ul>",
+    "url": "<a href='https://github.com/nerdyash/MyPortfolio' target='_blank'><i class='fa fa-github fa-3x' aria-hidden='true' ></i></a>"
+
+  },
+  {
+    "id": "2",
+    "name": "<h3>Life Band Disaster Management Toll kit: Pre-research prototype</h3>",
+    "description":"<ul><li>Developed Location Positioning device using Android, Arduino, GPS, XBee, Java, WAMP, PhpMyAdmin and Apache Tomcat.</li><li>Implemented spiral technique of Software Development Life Cycle.</li><li>Implemented ZigBee protocol to create Ad-Hoc network.</li><li>Developed Android application to fetch the location of Life Band device.</li><li>Composed documentation and professional presentation for given project.</li></ul>",
+    "url":""
+
+  },
+  {
+    "id": "3",
+    "name": "<h3>Weather Based on ZipCode</h3>",
+    "description":"<ul><li>Created cloud based application using weather API, providing weather information using Zip-Code.</li><li>Created cloud based application using weather API, providing weather information using Zip-Code.</li><li>Developed using Python, HTML, CSS, JS, Google App Engine.</li></ul>",
+    "url": "<a href='https://github.com/nerdyash/zipcodebasedtemperature' target='_blank'><i class='fa fa-github fa-3x' aria-hidden='true' ></i></a>"
+  },
+  {
+    "id": "4",
+    "name": "<h3>Chat Application</h3>",
+    "description": "<ul><li>Developed Chat application where user can communicate with each other in group and in private.</li><li>Fabricated using MongoDB, ExpressJs, NodeJs, Socket.io and JQuery.</li></ul>",
+    "url":"<a href='https://github.com/nerdyash/chat' target='_blank'><i class='fa fa-github fa-3x' aria-hidden='true' ></i></a>"
+  },
+  {
+    "id": "5",
+    "name": "<h3>Premier League prediction</h3>",
+    "description": "<ul><li>Performed data gathering and dataset cleaning to develop a model to predict Premier league result.</li><li>Implemented KNN algorithm on Hadoop to predict the results and achieved accuracy of 81%.</li></ul>",
+    "url":""
+  },
+  {
+    "id": "6",
+    "name": "<h3>Designed Compiler using JAVA</h3>",
+    "description": "<ul><li>Designed a basic compiler using JAVA and JAVACC.</li><li>Learned selection sets, Tokenizing, Parsing by Java programming. </li></ul>",
+    "url":"<a href='https://github.com/nerdyash/Compiler-Design-with-JAVA' target='_blank'><i class='fa fa-github fa-3x' aria-hidden='true' ></i></a>"
+  }
+]

@@ -26,11 +26,16 @@
   },
   {
     "id": "6",
+    "name": "Package Manager",
+    "value": "bower, npm"
+  },
+  {
+    "id": "7",
     "name": "Version Control",
     "value": "Git"
   },
   {
-    "id": "7",
+    "id": "8",
     "name": "Soft skills",
     "value": "Innovative, Leadership, Passion"
   }

@@ -1,15 +1,15 @@
 [
   {
     "id": "1",
-    "school1": "State University of New York at New Paltz",
-    "major": "Major in Computer Science",
+    "school": "<h2>State University of New York at New Paltz</h2>",
+    "major": "<h3>Major in Computer Science</h3>",
     "gpa": "3.48 / 4.0",
-    "course":"Computer System, Data Structure, Advanced Data Structure, Formal Languages, Foundations od Computer Science, Foundations of Data Science, Cloud Computing, Database Design."
+    "course":"Computer System, Data Structure, Advanced Data Structure, Formal Languages, Foundations of Computer Science, Foundations of Data Science, Cloud Computing, Database Design."
   },
   {
     "id": "2",
-    "school2": "Gujarat Technological University, India",
-    "major": "Major in Computer Engineering",
+    "school": "<h2>Gujarat Technological University, India</h2>",
+    "major": "<h3>Major in Computer Engineering</h3>",
     "gpa": "7.52 / 10.0",
     "course": "Java, C, C++, Database Management System, Data File Structure, Web Application Development, Compiler Design, Cloud and Cluster Computing."
   }

@@ -1,23 +1,23 @@
 [
   {
     "id":"1",
-    "name":"Our Home Base, Inc",
+    "name":"<h2>Our Home Base, Inc</h2>",
     "location":"New Paltz, New York, US.",
-    "position":"Web Development and Design Intern",
-    "description": "<ul><li>Analyzing client website inorder improve performance and user interface.</li><li>Performing requirement analysis and designing client's application.</li><li>Developing client product using WordPress.</li></ul>"
+    "position":"<h3>Web Development and Design Intern</h3>",
+    "description": "<ul><li>Analyzed client website inorder improve performance and user interface.</li><li>Performed requirement analysis and designing client's application.</li><li>Developed, optimized and hosted website https://homeofchampionsny.org/ using WordPress and BlueHost hosting Service.</li><li>Implementing payment gateway using Give plugin and PayPal service in WordPress.</li></ul>"
   },
   {
     "id":"2",
-    "name":"Archer Solutions",
+    "name":"<h2>Archer Solutions</h2>",
     "location": "Ahmedabad, Gujarat, India.",
-    "position": "Project Trainee",
+    "position": "<h3>Project Trainee</h3>",
     "description":"<ul><li>Developed Location Positioning device using Android, Arduino, GPS, WAMP and Apache Tomcat.</li><li>Implemented spiral technique of Software Development Life Cycle.</li><li>Implemented ZigBee protocol to create Ad-Hoc network.</li><li>Developed Android application to fetch the location of Life Band device.</li><li>Composed documentation and professional presentation for given project.</li></ul>"
   },
   {
     "id" : "3",
-    "name": "Indus University",
+    "name": "<h2>Indus University</h2>",
     "location":"Ahmedabad, Gujarat, India.",
-    "position":"Volunteer, Personal Assistance IT Department",
-    "description":"<ul><li>•	Counseled the presenters with IT support.</li><li>•	Planned the schedule for the presentations and coordinated with other departments.</li></ul>"
+    "position":"<h3>Volunteer, Personal Assistance IT Department</h3>",
+    "description":"<ul><li>Counseled the presenters with IT support.</li><li>Planned the schedule for the presentations and coordinated with other departments.</li></ul>"
   }
 ]

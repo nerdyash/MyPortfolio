@@ -1,0 +1,7 @@
+.footer{
+    position: absolute;
+}
+.myButton{
+    visibility: hidden;
+    opacity: 0;
+}

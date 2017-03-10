@@ -1,7 +1,9 @@
-[
-  {
+{
     "id":"1",
-    "image": "yash.jpg",
-    "description": "<p>Major in Computer Science</p><p>Pursuing web development and design internship with Our Home Base, Inc.</p><p>Graduate Student at State University of New York at New Paltz.</p><p>Achieved Bachelor Degree in Computer Engineering from Gujarat Technological University, India.</p>"
-  }
-]
+    "image": "yash.png",
+    "title":"<h2>Front End Web Developer</h2>",
+    "skill":"<ul class='list-inline myList'><li>HTML</li><li>CSS</li><li>JavaScript</li><li>AngularJS</li><li>WordPress</li></ul>",
+    "description": "<p>Pursuing web development and design internship with Our Home Base, Inc.</p><p>Graduate Student at State University of New York at New Paltz with major in computer science.</p><p>Achieved Bachelor Degree in Computer Engineering from Gujarat Technological University, India.</p>",
+    "good" : "Front End Development<br><br>Website Development<br><br>MVC Framework<br><br>Developer Tools<br><br>Version Control"
+
+}

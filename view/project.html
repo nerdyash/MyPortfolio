@@ -1,0 +1,16 @@
+<link href="css/expr.css" rel="stylesheet">
+<div class="body-main" style="padding-bottom: 5%; ">
+    <div class="row">
+        <div class="col-md-12">
+            <div ng-repeat="pros in pro">
+                <div class="col-md-10">
+                    <div ng-bind-html="pros.name" class="animated lightSpeedIn"></div>
+                    <div ng-bind-html="pros.description"></div>
+                </div>
+                <div class="col-md-2">
+                    <div ng-bind-html="pros.url" style="padding-top:5%"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

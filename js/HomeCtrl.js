@@ -1,4 +1,6 @@
 angular.module('portfolio')
-.controller('HomeCtrl', ['$scope', function ($scope) {
-    $scope.image = "Home Page";
+.controller('HomeCtrl', ['$scope', '$http', function ($scope, $http) {
+    $http.get('json/home.json').then(function (response) {
+       $scope.basic = response.data;
+    });
 }]);
