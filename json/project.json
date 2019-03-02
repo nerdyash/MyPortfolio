@@ -8,31 +8,45 @@
   },
   {
     "id": "2",
+    "name":"<h3>Random Quote Generator</h3>",
+    "description": "<ul><li>Developed random quote generator application using jQuery.</li><li>Made AJAX call to get random quotes from API in jsonp formate.</li><li>User can easily share that quote on twitter.</li></ul>",
+    "url": "<a href='https://github.com/nerdyash/Random_Quote_generate' target='_blank'><i class='fa fa-github fa-3x' aria-hidden='true' ></i></a>"
+
+  },
+  {
+    "id": "3",
+    "name":"<h3>Local Weather using OpenWeatherMap API</h3>",
+    "description": "<ul><li>Developed this application using AngularJs framework.</li><li>Used $http Angular service to fetch API data.</li><li>User can get data in different format by just clicking the button like speed in mph to kmph and temperature in F to C.</li></ul>",
+    "url": "<a href='https://github.com/nerdyash/Weather_Using_AngularJS' target='_blank'><i class='fa fa-github fa-3x' aria-hidden='true' ></i></a>"
+
+  },
+  {
+    "id": "4",
     "name": "<h3>Life Band Disaster Management Toll kit: Pre-research prototype</h3>",
     "description":"<ul><li>Developed Location Positioning device using Android, Arduino, GPS, XBee, Java, WAMP, PhpMyAdmin and Apache Tomcat.</li><li>Implemented spiral technique of Software Development Life Cycle.</li><li>Implemented ZigBee protocol to create Ad-Hoc network.</li><li>Developed Android application to fetch the location of Life Band device.</li><li>Composed documentation and professional presentation for given project.</li></ul>",
     "url":""
 
   },
   {
-    "id": "3",
+    "id": "5",
     "name": "<h3>Weather Based on ZipCode</h3>",
     "description":"<ul><li>Created cloud based application using weather API, providing weather information using Zip-Code.</li><li>Created cloud based application using weather API, providing weather information using Zip-Code.</li><li>Developed using Python, HTML, CSS, JS, Google App Engine.</li></ul>",
     "url": "<a href='https://github.com/nerdyash/zipcodebasedtemperature' target='_blank'><i class='fa fa-github fa-3x' aria-hidden='true' ></i></a>"
   },
   {
-    "id": "4",
+    "id": "6",
     "name": "<h3>Chat Application</h3>",
     "description": "<ul><li>Developed Chat application where user can communicate with each other in group and in private.</li><li>Fabricated using MongoDB, ExpressJs, NodeJs, Socket.io and JQuery.</li></ul>",
     "url":"<a href='https://github.com/nerdyash/chat' target='_blank'><i class='fa fa-github fa-3x' aria-hidden='true' ></i></a>"
   },
   {
-    "id": "5",
+    "id": "7",
     "name": "<h3>Premier League prediction</h3>",
     "description": "<ul><li>Performed data gathering and dataset cleaning to develop a model to predict Premier league result.</li><li>Implemented KNN algorithm on Hadoop to predict the results and achieved accuracy of 81%.</li></ul>",
     "url":""
   },
   {
-    "id": "6",
+    "id": "8",
     "name": "<h3>Designed Compiler using JAVA</h3>",
     "description": "<ul><li>Designed a basic compiler using JAVA and JAVACC.</li><li>Learned selection sets, Tokenizing, Parsing by Java programming. </li></ul>",
     "url":"<a href='https://github.com/nerdyash/Compiler-Design-with-JAVA' target='_blank'><i class='fa fa-github fa-3x' aria-hidden='true' ></i></a>"

@@ -1,10 +1,10 @@
 [
   {
     "id":"1",
-    "name":"<h2>Our Home Base, Inc</h2>",
+    "name":"<h2>Home of Champions</h2>",
     "location":"New Paltz, New York, US.",
     "position":"<h3>Web Development and Design Intern</h3>",
-    "description": "<ul><li>Analyzed client website inorder improve performance and user interface.</li><li>Performed requirement analysis and designing client's application.</li><li>Developed, optimized and hosted website https://homeofchampionsny.org/ using WordPress and BlueHost hosting Service.</li><li>Implementing payment gateway using Give plugin and PayPal service in WordPress.</li></ul>"
+    "description": "<ul><li>Analyzed client website inorder improve performance and user interface.</li><li>Performed requirement analysis and designing client's application.</li><li>Developed, optimized and hosted website <a href='https://homeofchampionsny.org/' target='_blank'>https://homeofchampionsny.org/</a> using WordPress and BlueHost hosting Service.</li><li>Implementing payment gateway using Give plugin and PayPal service in WordPress.</li></ul>"
   },
   {
     "id":"2",
