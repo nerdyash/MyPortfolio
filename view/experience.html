@@ -1,25 +1,37 @@
 <link href="css/expr.css" rel="stylesheet">
 <div class="body-main" style="padding-bottom: 5%;">
     <div class="row">
-        <div class="col-md-4" style="padding-top: 3%">
-            <center><i class="fa fa-laptop fa-5x" aria-hidden="true" style="display: inline; font-size: 10em; "></i></center>
-        </div>
         <div class="col-md-8">
-            <div ng-bind-html="exp[0].name" class="animated slideInRight"></div>
+            <div ng-bind-html="exp[0].name" class="wow slideInRight"></div>
             <div>{{exp[0].location}}</div>
-            <div ng-bind-html="exp[0].position" class="animated slideInRight"></div>
+            <div ng-bind-html="exp[0].position" class="wow slideInRight"></div>
             <div ng-bind-html="exp[0].description"></div>
+        </div>
+        <div class="col-md-4" style="padding-top: 3%">
+            <center><i class="fa fa-connectdevelop fa-5x" aria-hidden="true" style="display: inline; font-size: 10em; "></i></center>
         </div>
     </div>
     <hr>
     <div class="row">
+        <div class="col-md-4" style="padding-top: 6%">
+            <center><i class="fa fa-laptop fa-5x" aria-hidden="true" style="display: inline; font-size: 10em; "></i></center>
+        </div>
         <div class="col-md-8">
             <div ng-bind-html="exp[1].name" class="wow slideInLeft"></div>
             <div>{{exp[1].location}}</div>
             <div ng-bind-html="exp[1].position" class="wow slideInLeft"></div>
             <div ng-bind-html="exp[1].description"></div>
         </div>
-        <div class="col-md-4" style="padding-top: 6%">
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-md-8">
+            <div ng-bind-html="exp[2].name" class="wow slideInRight"></div>
+            <div>{{exp[2].location}}</div>
+            <div ng-bind-html="exp[2].position" class="wow slideInRight"></div>
+            <div ng-bind-html="exp[2].description"></div>
+        </div>
+        <div class="col-md-4" style="padding-top: 2%">
             <center><i class="fa fa-microchip fa-5x" aria-hidden="true" style="display: inline; font-size: 10em; "></i></center>
         </div>
     </div>
@@ -29,10 +41,10 @@
             <center><i class="fa fa-users fa-5x" aria-hidden="true" style="display: inline; font-size: 10em; "></i></center>
         </div>
         <div class="col-md-8">
-            <div ng-bind-html="exp[2].name" class="wow slideInRight"></div>
-            <div>{{exp[2].location}}</div>
-            <div ng-bind-html="exp[2].position" class="wow slideInRight"></div>
-            <div ng-bind-html="exp[2].description"></div>
+            <div ng-bind-html="exp[3].name" class="wow slideInLeft"></div>
+            <div>{{exp[3].location}}</div>
+            <div ng-bind-html="exp[3].position" class="wow slideInLeft"></div>
+            <div ng-bind-html="exp[3].description"></div>
         </div>
     </div>
 </div>

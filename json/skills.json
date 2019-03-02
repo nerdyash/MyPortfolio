@@ -17,12 +17,12 @@
   {
     "id": "4",
     "name": "Web Technologies / Scripting languages",
-    "value": "HTML5, CSS3, JavaScript, AngularJS, JQuery, NodeJS, BootStrap, Sass, ExpressJS"
+    "value": "HTML5, CSS3, JavaScript, AngularJS, ReactJS, JQuery, NodeJS, BootStrap, Sass, ExpressJS, AJAX, MoovJS, MoovTritium"
   },
   {
     "id": "5",
     "name": "Other Tools / Software",
-    "value": "WordPress, Google Analytics, Chrome Dev Tool, Fire Bug, RStudio, NetBeans, Dreamweaver, Atom, MS Office, Eclips"
+    "value": "WordPress, Google Analytics, Google Optimize, Chrome Dev Tool, Fire Bug, RStudio"
   },
   {
     "id": "6",

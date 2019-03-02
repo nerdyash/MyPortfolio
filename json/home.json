@@ -2,8 +2,8 @@
     "id":"1",
     "image": "yash.png",
     "title":"<h2>Front End Web Developer</h2>",
-    "skill":"<ul class='list-inline myList'><li>HTML</li><li>CSS</li><li>JavaScript</li><li>AngularJS</li><li>WordPress</li></ul>",
-    "description": "<p>Pursuing web development and design internship with Our Home Base, Inc.</p><p>Graduate Student at State University of New York at New Paltz with major in computer science.</p><p>Achieved Bachelor Degree in Computer Engineering from Gujarat Technological University, India.</p>",
-    "good" : "Front End Development<br><br>Website Development<br><br>MVC Framework<br><br>Developer Tools<br><br>Version Control"
+    "skill":"<ul class='list-inline myList'><li>HTML5</li><li>CSS3</li><li>JavaScript</li><li>AngularJS</li><li>ReactJS</li></ul>",
+    "description": "<p>Working as a Front End Web Developer at Sooryen Technologies in New Jersey.</p><p>Worked as a Web Development and Design intern at Our Home Base, Inc. in New York.</p><p>Have experiense in ReactJS, AngularJS, jQuery, HTML5, CSS3, MoovJS, MoovTritium, Google Optimize.</p><p>Graduated from State University of New York at New Paltz with major in Computer Science.</p><p>Achieved Bachelor Degree in Computer Engineering from Gujarat Technological University, India.</p>",
+    "good" : "Front End Web Development<br><br>Website Improvement<br><br>MVC Framework<br><br>Web Page Performance improvement<br><br>Google Optimize<br><br>Developer Tools<br><br>Version Control"
 
 }

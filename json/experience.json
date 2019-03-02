@@ -1,20 +1,27 @@
 [
   {
-    "id":"1",
-    "name":"<h2>Home of Champions</h2>",
-    "location":"New Paltz, New York, US.",
-    "position":"<h3>Web Development and Design Intern</h3>",
-    "description": "<ul><li>Analyzed client website inorder improve performance and user interface.</li><li>Performed requirement analysis and designing client's application.</li><li>Developed, optimized and hosted website <a href='https://homeofchampionsny.org/' target='_blank'>https://homeofchampionsny.org/</a> using WordPress and BlueHost hosting Service.</li><li>Implementing payment gateway using Give plugin and PayPal service in WordPress.</li></ul>"
+    "id": "1",
+    "name": "<h2>Sooryen Technologies an indecomm company</h2>",
+    "location": "Oradell, New Jersey, US.",
+    "position": "<h3>Software Developer (Front End Web Developer)</h3>",
+    "description": "<ul><li>Achieved improved page speed of websites using various page optimization techniques.</li><li>Implementing A/B test using Google Optimize.</li><li>Designed and developed WYSIWYG editor functionality using JavaScript, php and tritium.</li><li>Implemented campaign marketing functionality using AppBoy and JavaScript.</li><li>Improved conversion rate by implementing various page performance methods on websites.</li><li>Maintaining and debugging client website using HTML5, CSS3, JavaScript and tritium.</li><li>Building GA dashboard using Google Analytics API and React framework.</li></ul>"
   },
   {
     "id":"2",
+    "name":"<h2>Home of Champions</h2>",
+    "location":"New Paltz, New York, US.",
+    "position":"<h3>Web Development and Design Intern</h3>",
+    "description": "<ul><li>Architected the website <a href='https://homeofchampionsny.org/' target='_blank'>Home of Champions</a> using Wordpress and it's plugins.</li><li>Developed, optimized, expanded functionality using plugins and hosted the website using Bluehost service.</li><li>Improved performance and User Interface (UI) by analyzing client requirements.</li><li>Implemented payment gateway using PayPal service in WordPress.</li></ul>"
+  },
+  {
+    "id":"3",
     "name":"<h2>Archer Solutions</h2>",
     "location": "Ahmedabad, Gujarat, India.",
     "position": "<h3>Project Trainee</h3>",
     "description":"<ul><li>Developed Location Positioning device using Android, Arduino, GPS, WAMP and Apache Tomcat.</li><li>Implemented spiral technique of Software Development Life Cycle.</li><li>Implemented ZigBee protocol to create Ad-Hoc network.</li><li>Developed Android application to fetch the location of Life Band device.</li><li>Composed documentation and professional presentation for given project.</li></ul>"
   },
   {
-    "id" : "3",
+    "id" : "4",
     "name": "<h2>Indus University</h2>",
     "location":"Ahmedabad, Gujarat, India.",
     "position":"<h3>Volunteer, Personal Assistance IT Department</h3>",
